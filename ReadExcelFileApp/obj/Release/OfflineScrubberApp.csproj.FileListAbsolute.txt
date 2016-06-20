@@ -1,0 +1,8 @@
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\bin\Release\OfflineScrubber.exe.config
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\bin\Release\OfflineScrubber.exe
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\bin\Release\OfflineScrubber.pdb
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\obj\Release\OfflineScrubber.Form1.resources
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\obj\Release\OfflineScrubber.Properties.Resources.resources
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\obj\Release\OfflineScrubberApp.csproj.GenerateResource.Cache
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\obj\Release\OfflineScrubber.exe
+C:\Users\IEUser\Source\Repos\catalogassist\ReadExcelFileApp\ReadExcelFileApp\obj\Release\OfflineScrubber.pdb
